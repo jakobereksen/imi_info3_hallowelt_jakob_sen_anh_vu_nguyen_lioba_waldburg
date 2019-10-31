@@ -1,6 +1,6 @@
 # imi_info_hallowelt
 
-gruppe 
+## gruppe 
 anh vu nguyen 
 lioba waldburg
 jakob sen
