@@ -11,6 +11,13 @@ public class Spende {
         this.spendername = spendername;
     }
 
+    public Spende() {
+        this.betrag = 0.0;
+        this.quittung = false;
+        this.spendername = "";
+    }
+
+
 
     public void setBetrag(double betrag) {
         this.betrag = betrag;
